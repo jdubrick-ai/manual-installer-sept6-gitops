@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: manual-installer-sept6-repository
+spec:
+  url: https://github.com/jdubrick-ai/manual-installer-sept6
